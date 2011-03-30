@@ -3,7 +3,7 @@
 <includes>
 	<include name="Viewtype_Files">
 
-		
+
 		<control type="image">
 			<include>Dimensions_Fullscreen</include>
 			<texture>list/file-black-background1.png</texture>
@@ -29,8 +29,8 @@
 			<texture>list/files_fanart_background.png</texture>
 			<visible>Control.IsVisible(50) + Window.IsActive(musiclibrary) + Skin.HasSetting(music_files_fanart)</visible>
 		</control>
-		
-		
+
+
 		<control type="fixedlist" id="50">
 			<posx>0</posx>
 			<posy>36</posy>
@@ -71,7 +71,7 @@
 					<font>Font_Bartowski_Episode_ContextMenu</font>
 					<textcolor>Text-Filemode</textcolor>
 					<selectedcolor>selected</selectedcolor>
-					
+
 					<label>$INFO[ListItem.Label]$INFO[ListItem.Label2, - ]</label>
 					<visible>Window.IsActive(Programs) | Window.IsActive(musicplaylist)</visible>
 				</control>
@@ -168,7 +168,6 @@
 					<height>41</height>
 					<colordiffuse>mainblue</colordiffuse>
 					<texture>MenuItemFOR.png</texture>
-					
 				</control>
 				<control type="label" id="98">
 					<posx>10</posx>
