@@ -68,7 +68,6 @@
 				<focusedcolor>white</focusedcolor>
 				<colordiffuse>mainblue</colordiffuse>
 				<textoffsetx>20</textoffsetx>
-				<texturefocus>MenuItemFOR.png</texturefocus>
 				<texturenofocus>MenuItemNF.png</texturenofocus>
 				<onright>22</onright>
 				<onleft>22</onleft>
@@ -98,7 +97,6 @@
 				<align>center</align>
 				<colordiffuse>mainblue</colordiffuse>
 				<textoffsetx>20</textoffsetx>
-				<texturefocus>MenuItemFOR.png</texturefocus>
 				<texturenofocus>MenuItemNF.png</texturenofocus>
 				<label>-</label>
 				<onup>22</onup>
@@ -154,7 +152,6 @@
 						<height>41</height>
 						<colordiffuse>mainblue</colordiffuse>
 						<textoffsetx>20</textoffsetx>
-						<texture>MenuItemFOR.png</texture>
 						<visible>Control.HasFocus(10)</visible>
 					</control>
 					<control type="image">
@@ -258,7 +255,6 @@
 				<textoffsetx>20</textoffsetx>
 				<colordiffuse>mainblue</colordiffuse>
 				<textoffsetx>20</textoffsetx>
-				<texturefocus>MenuItemFOR.png</texturefocus>
 				<texturenofocus>MenuItemNF.png</texturenofocus>
 				<onright>16</onright>
 				<onleft>16</onleft>
@@ -276,7 +272,6 @@
 				<focusedcolor>white</focusedcolor>
 				<colordiffuse>mainblue</colordiffuse>
 				<textoffsetx>20</textoffsetx>
-				<texturefocus>MenuItemFOR.png</texturefocus>
 				<texturenofocus>MenuItemNF.png</texturenofocus>
 				<onright>17</onright>
 				<onleft>17</onleft>
@@ -294,7 +289,6 @@
 				<focusedcolor>white</focusedcolor>
 				<colordiffuse>mainblue</colordiffuse>
 				<textoffsetx>20</textoffsetx>
-				<texturefocus>MenuItemFOR.png</texturefocus>
 				<texturenofocus>MenuItemNF.png</texturenofocus>
 				<onright>19</onright>
 				<onleft>19</onleft>

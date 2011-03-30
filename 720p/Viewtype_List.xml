@@ -78,17 +78,6 @@
 						<visible>!Control.HasFocus(53)</visible>
 						<include>VisibleFadeEffect</include>
 					</control>
-					<control type="image">
-						<posx>0</posx>
-						<posy>0</posy>
-						<width>580</width>
-						<height>41</height>
-						<colordiffuse>mainblue</colordiffuse>
-						
-						<texture flipx="true">MenuItemFOR.png</texture>
-						<visible>Control.HasFocus(53)</visible>
-						<!--<include>VisibleFadeEffect</include> -->
-					</control>
 				<!--	<control type="image">
 						<posx>370</posx>
 						<posy>5</posy>

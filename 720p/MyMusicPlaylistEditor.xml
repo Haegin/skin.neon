@@ -221,16 +221,6 @@
 					</control>
 				</itemlayout>
 				<focusedlayout height="30" width="400">
-					<control type="image">
-						<posx>0</posx>
-						<posy>0</posy>
-						<width>400</width>
-						<height>32</height>
-						<colordiffuse>mainblue</colordiffuse>
-						<texture>MenuItemFOR.png</texture>
-						<visible>Control.HasFocus(50)</visible>
-						<include>VisibleFadeEffect</include>
-					</control>
 					<control type="label">
 						<posx>10</posx>
 						<posy>0</posy>
@@ -362,16 +352,6 @@
 					</control>
 				</itemlayout>
 				<focusedlayout height="30" width="400">
-					<control type="image">
-						<posx>0</posx>
-						<posy>0</posy>
-						<width>400</width>
-						<height>32</height>
-						<colordiffuse>mainblue</colordiffuse>
-						<texture>MenuItemFOR.png</texture>
-						<visible>Control.HasFocus(100)</visible>
-						<include>VisibleFadeEffect</include>
-					</control>
 					<control type="label">
 						<posx>5</posx>
 						<posy>0</posy>

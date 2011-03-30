@@ -102,17 +102,6 @@
 			</itemlayout>
 			<focusedlayout width="600" height="36">
 				
-				<control type="image">
-					<posx>10</posx>
-					<posy>5</posy>
-					<width>620</width>
-					<height>37</height>
-					<colordiffuse>mainblue</colordiffuse>
-					<texture>MenuItemFOR.png</texture>
-					<animation type="Focus" reversible="false">
-						<effect type="fade" start="0" end="70" time="300" />
-					</animation>
-				</control>
 				<control type="label">
 					<posx>5</posx>
 					<posy>0</posy>

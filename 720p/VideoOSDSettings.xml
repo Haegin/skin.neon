@@ -88,7 +88,6 @@
 			<height>40</height>
 			<textoffsetx>20</textoffsetx>
 			<colordiffuse>mainblue</colordiffuse>
-			<texturefocus>MenuItemFOR.png</texturefocus>
 			<font>Font_Neon_25</font>
 			<textcolor>white</textcolor>
 			<focusedcolor>white</focusedcolor>
@@ -103,7 +102,6 @@
 			<textcolor>white</textcolor>
 			<focusedcolor>white</focusedcolor>
 			<colordiffuse>mainblue</colordiffuse>
-			<texturefocus>MenuItemFOR.png</texturefocus>
 		</control>
 		<control type="radiobutton" id="8">
 			<description>Default RadioButton</description>
@@ -115,7 +113,6 @@
 			<textcolor>white</textcolor>
 			<focusedcolor>white</focusedcolor>
 			<colordiffuse>mainblue</colordiffuse>
-			<texturefocus>MenuItemFOR.png</texturefocus>
 		</control>
 		<control type="spincontrolex" id="9">
 			<description>Default SpinControlex</description>
@@ -127,7 +124,6 @@
 			<textcolor>white</textcolor>
 			<focusedcolor>white</focusedcolor>
 			<colordiffuse>mainblue</colordiffuse>
-			<texturefocus>MenuItemFOR.png</texturefocus>
 			<aligny>center</aligny>
 			<reverse>yes</reverse>
 		</control>
